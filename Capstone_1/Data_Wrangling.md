@@ -1,4 +1,4 @@
-# Data Wrangling: Demogrpahic and Cidery Data 
+# Data Wrangling: Demographic and Cidery Data 
 
 ## Pre-Processing
 
